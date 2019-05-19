@@ -19,10 +19,13 @@ Using GAN (Generative Adversarial Networks), generate simulated picture based on
 
 [Code](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/ImageGenerator/ImageGenerator_GPU.ipynb)
 first generated picture with poor acc value
+
 ![](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/ImageGenerator/images/facades/0_0.png)
 picture generated after 22 epoch training
+
 ![](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/ImageGenerator/images/facades/20_200.png)
 picture generated after 100 epoch
+
 ![](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/ImageGenerator/images/facades/99_0.png)
 
 
